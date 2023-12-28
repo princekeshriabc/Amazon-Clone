@@ -1,1 +1,3 @@
-AMAZON CLONE : https://princekeshriabc.github.io/Amazon-Clone/
+# AMAZON CLONE : 
+
+Link : [Amazon Clone](https://princekeshriabc.github.io/Amazon-Clone/)
