@@ -1,1 +1,1 @@
-AMAZON CLONE : [Website link]([url](https://princekeshriabc.github.io/Amazon-Clone/))
+AMAZON CLONE : https://princekeshriabc.github.io/Amazon-Clone/
